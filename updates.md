@@ -24,10 +24,10 @@
 **v1.4.1 11/17/2025 (4)**: Changed footer from "DISCLAIMER: This is an unofficial website and organization; nothing is official at this time. Everything is subject to change. We ARE NOT affiliated with the Online Weather Center (OWC)." to "DISCLAIMER: This is an unofficial website and organization; nothing is official at this time. Everything is subject to change. We ARE NOT affiliated with Online Weather Center or their "Oswego Weather Center" page."
 
 
-**v1.5.0** **11/19/2025 (1)**: Added new sections related to the ranking of tornadoes (EF0-EF5), and added tornadoes "Boone County and Winnebago County Border - Unknown Field", "Grenoa Road - Spring Creek", "Franklin Township Border - Franklin Township Border (UNFINISHED)", "Oak Ridge Forest Preserve - Capron Road", "Poplar Grove Road - County Line Road", "Bloods Point Road - Fruit Farm Road", "Reeds Crossing Road - Spring Road", and "Flora Township Border - Unknown Field"
+**v1.5.0 11/19/2025 (1)**: Added new sections related to the ranking of tornadoes (EF0-EF5), and added tornadoes "Boone County and Winnebago County Border - Unknown Field", "Grenoa Road - Spring Creek", "Franklin Township Border - Franklin Township Border (UNFINISHED)", "Oak Ridge Forest Preserve - Capron Road", "Poplar Grove Road - County Line Road", "Bloods Point Road - Fruit Farm Road", "Reeds Crossing Road - Spring Road", and "Flora Township Border - Unknown Field"
 
 
-**v1.5.1** **11/19/2025 (2)**: Discontinued the Tornado Map, too much work, and I have other things to work on.
+**v1.5.1 11/19/2025 (2)**: Discontinued the Tornado Map, too much work, and I have other things to work on.
 
 
 **v1.5.2 11/19/2025 (3)**: Gave credit to the websites that I use on my website, also learned a bit more HTML and how to display HTML bar graphs on the website, might implement soon.
